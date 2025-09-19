@@ -1,6 +1,6 @@
-# 🌍 Internet Sites Directory (300 Curated Links)
+# 🌍 Internet Sites Directory (Lots Of Curated Links)
 
-A categorized list of **300 websites** — 50 each in search engines, news/media, entertainment, games, social media, and developer tools. Use this as a resource, bookmark directory, or starting point for web projects.
+A categorized list of **lots of internet websites** — 50 or more in search engines, news/media, entertainment, games, social media, developer tools, etc. Use this as a resource, bookmark directory, or starting point for web projects.
 
 ---
 
@@ -387,7 +387,60 @@ A list of 50 websites where you can play **free online games** — from classic 
 47. Shell Shockers — https://shellshock.io  
 48. Krunker — https://krunker.io  
 49. Slither.io — https://slither.io  
-50. Paper.io — https://paper-io.com  
+50. Paper.io ## 🤖 AI Tools & Platforms
+
+1. ChatGPT — https://chat.openai.com  
+2. Claude — https://claude.ai  
+3. Gemini (Google) — https://gemini.google.com  
+4. Microsoft Copilot — https://copilot.microsoft.com  
+5. Perplexity AI — https://perplexity.ai  
+6. Poe (by Quora) — https://poe.com  
+7. Character.AI — https://character.ai  
+8. Hugging Face — https://huggingface.co  
+9. Midjourney — https://midjourney.com  
+10. DALL·E — https://openai.com/dall-e  
+11. Leonardo AI — https://leonardo.ai  
+12. RunwayML — https://runwayml.com  
+13. Pika Labs — https://pika.art  
+14. Synthesia (AI video avatars) — https://synthesia.io  
+15. HeyGen (Video AI) — https://heygen.com  
+16. ElevenLabs (Voice AI) — https://elevenlabs.io  
+17. Murf AI — https://murf.ai  
+18. Descript — https://descript.com  
+19. Replit Ghostwriter — https://replit.com  
+20. GitHub Copilot — https://github.com/features/copilot  
+21. Tabnine — https://tabnine.com  
+22. Cody (by Sourcegraph) — https://sourcegraph.com/cody  
+23. Notion AI — https://notion.so  
+24. GrammarlyGO — https://grammarly.com  
+25. Jasper — https://jasper.ai  
+26. Copy.ai — https://copy.ai  
+27. Writesonic — https://writesonic.com  
+28. Ink for All — https://inkforall.com  
+29. Scite Assistant — https://scite.ai  
+30. Elicit — https://elicit.org  
+31. ScholarAI — https://scholarai.io  
+32. Browse AI — https://browse.ai  
+33. Zapier AI — https://zapier.com/labs  
+34. Taskade AI — https://taskade.com  
+35. Tability AI — https://tability.io  
+36. ChatPDF — https://chatpdf.com  
+37. AskYourPDF — https://askyourpdf.com  
+38. Claude in Slack — https://claude.ai/slack  
+39. Tome (AI slide builder) — https://tome.app  
+40. Beautiful.ai — https://beautiful.ai  
+41. MagicSchool AI (for teachers) — https://magicschool.ai  
+42. Scribe (process docs w/ AI) — https://scribehow.com  
+43. Durable (AI websites) — https://durable.co  
+44. Framer AI — https://framer.com/ai  
+45. LogoAI — https://logoai.com  
+46. Cleanup.Pictures — https://cleanup.pictures  
+47. Photoroom — https://photoroom.com  
+48. Remove.bg — https://remove.bg  
+49. Kaiber — https://kaiber.ai  
+50. Luma AI (3D generation) — https://lumalabs.ai  
+52. https://paper-io.com
+51. Make It Meme — makeitmeme.com
 
 ## 🤖 AI Tools & Platforms
 
@@ -440,23 +493,7 @@ A list of 50 websites where you can play **free online games** — from classic 
 47. Photoroom — https://photoroom.com  
 48. Remove.bg — https://remove.bg  
 49. Kaiber — https://kaiber.ai  
-50. Luma AI (3D generation) — https://lumalabs.ai  
-
+50. Luma AI (3D generation) — https://lumalabs.ai
 ---
 
-## ✅ Summary (Total: 400 Sites)
-
-This README now includes **8 categories** with **50 curated websites each**:
-
-| Category                   | Count |
-|---------------------------|-------|
-| 🔍 Search Engines          | 50    |
-| 📰 Media & News            | 50    |
-| 🎬 Entertainment & Streaming | 50    |
-| 🎮 Gaming                  | 50    |
-| 🌐 Social Media & Communities | 50    |
-| 🧑‍💻 Dev/Programming Tools | 50    |
-| 🕹️ Online Game Sites       | 50    |
-| 🤖 AI Tools & Platforms     | 50    |
-| **Total**                 | **400** |
----------------------------------------
+attempting to add more soon! :)
