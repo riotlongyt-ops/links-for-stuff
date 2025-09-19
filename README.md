@@ -439,8 +439,8 @@ A list of 50 websites where you can play **free online games** — from classic 
 48. Remove.bg — https://remove.bg  
 49. Kaiber — https://kaiber.ai  
 50. Luma AI (3D generation) — https://lumalabs.ai  
-52. https://paper-io.com
-51. Make It Meme — makeitmeme.com
+52. Paper.io — https://paper-io.com
+51. Make It Meme — https://makeitmeme.com
 
 ## 🤖 AI Tools & Platforms
 
