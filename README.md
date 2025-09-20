@@ -389,6 +389,7 @@ A list of 50 websites where you can play **free online games** — from classic 
 49. Slither.io — https://slither.io  
 52. Paper.io — https://paper-io.com
 51. Make It Meme — https://makeitmeme.com
+52. Youtube Playables — https://youtube.com/playables
 
 ## 🤖 AI Tools & Platforms
 
