@@ -444,4 +444,144 @@ A list of 50 websites where you can play **free online games** — from classic 
 50. Luma AI (3D generation) — https://lumalabs.ai
 ---
 
-attempting to add more soon! :)
+# 🌐 OTHER / Miscellaneous Internet Sites
+
+A collection of 100 unique, interesting, and useful websites that don’t quite fit traditional categories — fun tools, experiments, games, utilities, and hidden gems across the web.
+
+---
+
+## 🎮 Games & Interactive Fun
+
+1. [WebSim](https://websim.com) – Create interactive web games & simulations  
+2. [WhatBeatsRock](https://whatbeatsrock.com) – What beats rock? Try to win...  
+3. [Patatap](https://patatap.com) – Visual music synthesizer  
+4. [The Useless Web](https://theuselessweb.com) – Takes you to a random weird/fun site  
+5. [Hacker Typer](https://hackertyper.net) – Pretend you’re a coding genius  
+6. [Little Alchemy 2](https://littlealchemy2.com) – Combine elements and discover new ones  
+7. [Agar.io](https://agar.io) – Multiplayer blob-eating game  
+8. [Slither.io](https://slither.io) – Snake-based .io game  
+9. [Paper.io](https://paper-io.com) – Paint territory & compete  
+10. [Krunker.io](https://krunker.io) – FPS in the browser  
+11. [Shell Shockers](https://shellshock.io) – Egg-themed FPS game  
+12. [GeoGuessr](https://geoguessr.com) – Guess where you are on Google Street View  
+13. [2048](https://gabrielecirulli.github.io/2048/) – Addictive number puzzle  
+14. [Quick, Draw!](https://quickdraw.withgoogle.com) – AI guesses your doodles  
+15. [Sandspiel](https://sandspiel.club) – Creative sand simulation  
+16. [Scribbl.io](https://skribbl.io) – Multiplayer drawing & guessing  
+17. [WindowSwap](https://window-swap.com) – View windows from around the world  
+18. [Radio Garden](https://radio.garden) – Tune into global radio stations  
+19. [Neopets](https://neopets.com) – Classic pet-raising and games  
+20. [Falling Sand Game](https://fallingsandgame.com) – Classic elemental sandbox  
+21. [Wordle](https://www.nytimes.com/games/wordle/index.html) – Daily word puzzle  
+22. [WordArt](https://wordart.com) – Create word clouds  
+23. [Jigsaw Explorer](https://jigsawexplorer.com) – Online jigsaw puzzles  
+24. [Line Rider](https://linerider.com) – Draw tracks and ride sleds  
+25. [Play Retro Games](https://playretrogames.com) – Old-school console games
+26. [Sandspiel](https://sandspiel.club) – Creative sand simulation  
+27. [Sandboxels](https://sandboxels.r74n.com) – A complex browser sandbox with chemistry and physic
+
+---
+
+## 🧠 Learning & Reference
+
+26. [Wikipedia](https://wikipedia.org) – The free encyclopedia  
+27. [Wiktionary](https://wiktionary.org) – Collaborative dictionary  
+28. [Khan Academy](https://khanacademy.org) – Free learning platform  
+29. [Scratch (MIT)](https://scratch.mit.edu) – Learn to code visually  
+30. [Code.org](https://code.org) – Learn programming basics  
+31. [WolframAlpha](https://wolframalpha.com) – Computational engine  
+32. [GeoGebra](https://geogebra.org) – Math tools  
+33. [Desmos](https://desmos.com) – Graphing calculator  
+34. [Coursera](https://coursera.org) – Online courses from universities  
+35. [edX](https://edx.org) – University courses online  
+36. [Project Gutenberg](https://gutenberg.org) – Free public domain books  
+37. [FutureMe](https://futureme.org) – Send emails to your future self  
+38. [Open Culture](https://openculture.com) – Free cultural & educational media  
+39. [TED](https://ted.com) – Talks and ideas worth spreading  
+40. [Internet Archive](https://archive.org) – Archive of media & websites  
+41. [The Wayback Machine](https://web.archive.org) – See old versions of websites  
+42. [HowStuffWorks](https://howstuffworks.com) – Explains how things work  
+43. [Math is Fun](https://mathsisfun.com) – Learning math the fun way  
+44. [Brilliant](https://brilliant.org) – Interactive problem solving  
+45. [MIT OCW](https://ocw.mit.edu) – Free MIT course materials  
+
+---
+
+## 🔍 Google & Tools
+
+46. [Google Drive](https://drive.google.com) – Cloud storage  
+47. [Google Docs](https://docs.google.com) – Word processor  
+48. [Google Sheets](https://sheets.google.com) – Spreadsheets  
+49. [Google Slides](https://slides.google.com) – Presentations  
+50. [Google Translate](https://translate.google.com) – Translation tool  
+51. [Google Maps](https://maps.google.com) – Navigation and exploration  
+52. [Google Earth](https://earth.google.com) – Explore the globe in 3D  
+53. [Google Trends](https://trends.google.com) – See what’s trending  
+54. [Google Keep](https://keep.google.com) – Notes and lists  
+55. [Google Calendar](https://calendar.google.com) – Time and event management  
+56. [Google Forms](https://forms.google.com) – Create surveys and quizzes  
+57. [Google Scholar](https://scholar.google.com) – Academic article search  
+58. [Arts & Culture](https://artsandculture.google.com) – Museum exhibits and art  
+59. [Chrome Experiments](https://chromeexperiments.com) – Fun browser experiments  
+
+---
+
+## 🛠️ Utilities & Cool Tools
+
+60. [Down for Everyone or Just Me](https://downforeveryoneorjustme.com)  
+61. [Temp Mail](https://temp-mail.org) – Disposable email  
+62. [10 Minute Mail](https://10minutemail.com) – Temporary inbox  
+63. [Archive.ph](https://archive.ph) – Archive web pages  
+64. [Remove.bg](https://remove.bg) – Remove image backgrounds  
+65. [Cleanup.pictures](https://cleanup.pictures) – Remove objects from photos  
+66. [Photopea](https://photopea.com) – Free Photoshop alternative  
+67. [TinyPNG](https://tinypng.com) – Compress images  
+68. [Online OCR](https://www.onlineocr.net) – Extract text from images  
+69. [PDF Escape](https://pdfescape.com) – Edit PDFs  
+70. [Jotti's Malware Scan](https://virusscan.jotti.org) – Scan files for viruses  
+71. [Speedtest](https://speedtest.net) – Test your internet speed  
+72. [Caniuse](https://caniuse.com) – Browser compatibility checks  
+73. [Regex101](https://regex101.com) – Test regular expressions  
+74. [JsonLint](https://jsonlint.com) – Validate JSON  
+75. [Pastebin](https://pastebin.com) – Share code/text snippets  
+
+---
+
+## 🎨 Design & Creativity
+
+76. [Coolors](https://coolors.co) – Generate color palettes  
+77. [Canva](https://canva.com) – Design made easy  
+78. [Figma](https://figma.com) – Collaborative design tool  
+79. [Photopea](https://photopea.com) – Online Photoshop-style editor  
+80. [Piskel](https://piskelapp.com) – Pixel art editor  
+81. [Flaticon](https://flaticon.com) – Free icons  
+82. [Unsplash](https://unsplash.com) – Free stock photos  
+83. [Pexels](https://pexels.com) – Free stock images  
+84. [Noun Project](https://thenounproject.com) – Icons and symbols  
+85. [SVG Repo](https://svg-repo.com) – Free SVGs  
+
+---
+
+## 📚 Curiosity & Exploration
+
+86. [Bored Panda](https://boredpanda.com) – Funny, creative, and quirky news  
+87. [This is Sand](https://thisissand.com) – Create art with sand  
+88. [Zoom Earth](https://zoom.earth) – Real-time weather and earth views  
+89. [100,000 Stars](https://stars.chromeexperiments.com) – Interactive space visualization  
+90. [Histography](https://histography.io) – Interactive timeline of history  
+91. [Nostalgia Machine](https://thenostalgiamachine.com) – Music from a year of your life  
+92. [My 90s TV](https://my90stv.com) – Random TV shows from the 90s  
+93. [The Secret Door](https://www.thesecretdoor.com) – Explore random places  
+94. [Pointer Pointer](https://pointerpointer.com) – Points to your cursor  
+95. [Zoom Quilt](http://zoomquilt.org) – Infinite surreal zoom art  
+96. [Heavens Above](https://heavens-above.com) – Track satellites and stars  
+97. [Flag Waver](https://flagwaver.com) – Waving flags in 3D  
+98. [Pixel Thoughts](https://pixelthoughts.co) – 60-second meditation  
+99. [Sleepyti.me](https://sleepyti.me) – Sleep calculator  
+100. [MakeItMeme](https://makeitmeme.com) – Generate memes
+
+---
+
+Enjoy exploring these creative, fun, and sometimes weird parts of the internet!
+
+
